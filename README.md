@@ -82,3 +82,18 @@
 <img width="391" alt="image" src="https://github.com/gourango-modak/Full-Stack-Development-Resources/assets/60336053/4317de21-3368-4330-9b00-35b5d589b6a9">
 
 
+
+## Payment Gateways
+
+### Stripe
+
+[How To Accept Payments With Stripe](https://www.youtube.com/watch?v=1r-F3FIONl8)
+
+
+
+
+
+
+
+
+
