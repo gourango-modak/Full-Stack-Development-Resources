@@ -47,3 +47,6 @@
 - [Radix UI](https://www.radix-ui.com/)
 
 
+## Frontend tech stack choose
+
+[TypeScript vs JavaScript](https://www.youtube.com/watch?v=HCXPJmtV47I)
