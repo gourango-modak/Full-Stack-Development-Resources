@@ -102,5 +102,5 @@
 
 [CMS Architecture(Traditional vs Decoupled vs Headless vs Hybrid)](https://www.youtube.com/watch?v=9Iep1S_iAWk)
 
-
+[DAM vs CMS](https://www.youtube.com/watch?v=RUHiP5OHAWY)
 
