@@ -41,8 +41,9 @@
 - [PostCSS](https://postcss.org/)
 - [SASS](https://www.youtube.com/watch?v=akDIJa0AP5c)
 - [SASS vs SCSS](https://www.youtube.com/watch?v=XLakz1yYzC0)
-- [LESS]
-- [Stylus]
+- [LESS](https://lesscss.org/)
+- [Stylus](https://stylus-lang.com/)
+- [Sass, SCSS, Less, and Stylus](https://www.youtube.com/watch?v=Tk_wcAxcinY)
 - [Bootstrap](https://www.youtube.com/watch?v=svPDhmXY1Yg)
 - [Tailwind CSS](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
 - [PicoCSS](https://picocss.com/)
@@ -62,7 +63,11 @@
 
 ### Frontend Build Tools
 
+[Module Bundlers Explained](https://www.youtube.com/watch?v=5IG4UmULyoA)
+
 [Build Tools to ease Frontend Developer's Life](https://www.youtube.com/watch?v=K5z75xaIakA)
+
+[Grunt, Gulp, Npm, Webpack and when to use what](https://www.youtube.com/watch?v=Mn6aj4kY-j8)
 
  - Webpack
  - Gulp
@@ -70,7 +75,8 @@
  - Snowpack
  - esbuild
  - Parcel
- - 
+ - Grunt
+ - Rollup
 
 
 <img width="391" alt="image" src="https://github.com/gourango-modak/Full-Stack-Development-Resources/assets/60336053/4317de21-3368-4330-9b00-35b5d589b6a9">
