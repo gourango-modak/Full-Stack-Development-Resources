@@ -41,6 +41,8 @@
 - [PostCSS](https://postcss.org/)
 - [SASS](https://www.youtube.com/watch?v=akDIJa0AP5c)
 - [SASS vs SCSS](https://www.youtube.com/watch?v=XLakz1yYzC0)
+- [LESS]
+- [Stylus]
 - [Bootstrap](https://www.youtube.com/watch?v=svPDhmXY1Yg)
 - [Tailwind CSS](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
 - [PicoCSS](https://picocss.com/)
@@ -52,3 +54,25 @@
 ## Frontend tech stack choose
 
 [TypeScript vs JavaScript](https://www.youtube.com/watch?v=HCXPJmtV47I)
+
+
+
+
+## Build Tools
+
+### Frontend Build Tools
+
+[Build Tools to ease Frontend Developer's Life](https://www.youtube.com/watch?v=K5z75xaIakA)
+
+ - Webpack
+ - Gulp
+ - Vite
+ - Snowpack
+ - esbuild
+ - Parcel
+ - 
+
+
+<img width="391" alt="image" src="https://github.com/gourango-modak/Full-Stack-Development-Resources/assets/60336053/4317de21-3368-4330-9b00-35b5d589b6a9">
+
+
