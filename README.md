@@ -87,6 +87,10 @@
 
 ### Stripe
 
+[Stripe Payments Basics](https://www.youtube.com/watch?v=1XKRxeo9414)
+
+[Stripe Payment Intents Overview](https://www.youtube.com/watch?v=K7PHc6QNaoc)
+
 [How To Accept Payments With Stripe](https://www.youtube.com/watch?v=1r-F3FIONl8)
 
 
