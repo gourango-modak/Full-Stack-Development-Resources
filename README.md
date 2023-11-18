@@ -104,3 +104,8 @@
 
 [DAM vs CMS](https://www.youtube.com/watch?v=RUHiP5OHAWY)
 
+[Everything You Need to Know About Digital Asset Management Software (DAM)](https://www.youtube.com/watch?v=vamBeAQ7EXw)
+
+
+
+
