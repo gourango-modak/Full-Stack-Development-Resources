@@ -98,8 +98,9 @@
 [Stripe Webhooks](https://www.youtube.com/watch?v=oYSLhriIZaA)
 
 
+## CMS | DAM | Headless
 
-
+[CMS Architecture(Traditional vs Decoupled vs Headless vs Hybrid)](https://www.youtube.com/watch?v=9Iep1S_iAWk)
 
 
 
