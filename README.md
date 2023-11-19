@@ -154,10 +154,11 @@ How to do web hosting Series #1
  - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
  - [Video #2](https://www.youtube.com/watch?v=na0CLsaWxBQ)
  - [Video #3](https://www.youtube.com/watch?v=AwtGjPOx1P8)
- - [Video #4](https://www.youtube.com/watch?v=tCWPpN4nE-M)
- - [Video #5](https://www.youtube.com/watch?v=tCWPpN4nE-M)
- - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
- - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
+ - [Video #4](https://www.youtube.com/watch?v=xGOk7FW9Dww)
+ - [Video #5](https://www.youtube.com/watch?v=ELWdKXOoMuA)
+ - [Video #6](https://www.youtube.com/watch?v=vCoYrKdlbeg)
+ - [Video #7](https://www.youtube.com/watch?v=PS4h1Ug7h-E)
+ - [Video #8]()
 
 How to do web hosting Series #2
  - [Video #1](https://www.youtube.com/watch?v=rm8AhGGYEVA&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=2)
