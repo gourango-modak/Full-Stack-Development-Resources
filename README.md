@@ -141,6 +141,8 @@
 
 ## Website Hosting
 
+[Different Hosting Types Explained](https://www.youtube.com/watch?v=CtNWVmt9U1M)
+
 [Web Hosting Explained: Cloud, Shared, VPS, And Dedicated](https://www.youtube.com/watch?v=AaohKvUpXxc)
 
 
