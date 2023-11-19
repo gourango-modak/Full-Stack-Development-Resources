@@ -141,6 +141,8 @@
 
 ## Website Hosting
 
+[How to handle hosting for clients - What mistakes to avoid](https://www.youtube.com/watch?v=sfcGejsltO8)
+
 [Different Hosting Types Explained](https://www.youtube.com/watch?v=CtNWVmt9U1M)
 
 [Web Hosting Explained: Cloud, Shared, VPS, And Dedicated](https://www.youtube.com/watch?v=AaohKvUpXxc)
