@@ -145,5 +145,6 @@
 
 [Web Hosting Explained: Cloud, Shared, VPS, And Dedicated](https://www.youtube.com/watch?v=AaohKvUpXxc)
 
+[Working of Web Hosting & Types Explained](https://www.youtube.com/watch?v=vjGQTO__53I)
 
 
