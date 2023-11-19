@@ -128,5 +128,20 @@
 [Interview Preparation](https://github.com/gourango-modak/Interview-preparation)
 
 
+## Domain
+
+[Guidelines before buying a domain](https://www.youtube.com/watch?v=bVLjWYB2uoo)
+
+[Guide On How To Choose Domain Name & Brand Naming Strategies](https://www.youtube.com/watch?v=h1cI9Ti1lG0)
+
+[What You Should Know Before Buying a Domain Name](https://www.youtube.com/watch?v=hnRWD-CQwro)
+
+[Buy domain & host a website](https://www.youtube.com/watch?v=LVZOzKs1z6o)
+
+
+## Website Hosting
+
+[Web Hosting Explained: Cloud, Shared, VPS, And Dedicated](https://www.youtube.com/watch?v=AaohKvUpXxc)
+
 
 
