@@ -138,6 +138,9 @@
 
 [Buy domain & host a website](https://www.youtube.com/watch?v=LVZOzKs1z6o)
 
+[Domain name full course](https://www.youtube.com/watch?v=9UigSTmCvxY)
+
+[What is Name Server and why do we need it](https://www.youtube.com/watch?v=WyDQhlRDad8)
 
 ## Website Hosting
 
@@ -145,10 +148,59 @@
 
 [How to select Best Hosting](https://www.youtube.com/watch?v=Mpso43TfVQU)
 
+[How Does Web Hosting Work](https://www.youtube.com/watch?v=iucfbb34tYE)
+
+How to do web hosting Series #1
+ - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
+ - [Video #2](https://www.youtube.com/watch?v=na0CLsaWxBQ)
+ - [Video #3](https://www.youtube.com/watch?v=AwtGjPOx1P8)
+ - [Video #4](https://www.youtube.com/watch?v=tCWPpN4nE-M)
+ - [Video #5](https://www.youtube.com/watch?v=tCWPpN4nE-M)
+ - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
+ - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
+
+How to do web hosting Series #2
+ - [Video #1](https://www.youtube.com/watch?v=rm8AhGGYEVA&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=2)
+ - [Video #2](https://www.youtube.com/watch?v=4LmTjKuvpYs&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=7)
+ - [Video #3](https://www.youtube.com/watch?v=Nz9GrCHEOqk&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=9)
+ - [Video #4](https://www.youtube.com/watch?v=AJDWgdH3oFg&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=11)
+ - [Video #5 - Unlimited Sub-domains](https://www.youtube.com/watch?v=8YvFbVpN0to&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=13)
+ - [Video #6](https://www.youtube.com/watch?v=9BO5PbjzKHs&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=14)
+
 [Different Hosting Types Explained](https://www.youtube.com/watch?v=CtNWVmt9U1M)
 
 [Web Hosting Explained: Cloud, Shared, VPS, And Dedicated](https://www.youtube.com/watch?v=AaohKvUpXxc)
 
 [Working of Web Hosting & Types Explained](https://www.youtube.com/watch?v=vjGQTO__53I)
+
+[Managed Database hosting](https://www.youtube.com/watch?v=XpR7p71PE0I)
+
+
+
+## Webserver
+
+[Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw)
+
+[Web Server vs Application Server](https://www.youtube.com/watch?v=thJSev60yfg)
+
+ - Apache HTTP Server
+ - IIS
+ - Nginx
+ - Lightpd
+
+
+
+## Containerization
+
+[Docker Explained](https://www.youtube.com/watch?v=WoZobj2Ruj0)
+
+
+
+
+## Web Fundamentals
+
+[Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
+
+
 
 
