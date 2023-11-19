@@ -220,6 +220,8 @@ How to do web hosting Series #2
 
 [SSL Certificates and Certificate Authority Explained](https://www.youtube.com/watch?v=x_I6Qc35PuQ)
 
+[What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
+
 
 ## Postman Tool
 
