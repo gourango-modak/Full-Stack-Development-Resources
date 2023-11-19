@@ -162,7 +162,6 @@ How to do web hosting Series #1
  - [Video #9](https://www.youtube.com/watch?v=D7GaDfXkFbU)
  - [Video #10](https://www.youtube.com/watch?v=Zs5CyLq4ms0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=98)
  - [Video #11](https://www.youtube.com/watch?v=xQuEKvkc-2c&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=99)
- - [Video #12]()
 
 How to do web hosting Series #2
  - [Video #1](https://www.youtube.com/watch?v=rm8AhGGYEVA&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=2)
@@ -221,6 +220,8 @@ How to do web hosting Series #2
 [SSL Certificates and Certificate Authority Explained](https://www.youtube.com/watch?v=x_I6Qc35PuQ)
 
 [What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
+
+[Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
 
 
 ## Postman Tool
