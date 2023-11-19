@@ -218,6 +218,7 @@ How to do web hosting Series #2
 
 [What is a Web and Web Service](https://www.youtube.com/watch?v=e3bz4dxoUII)
 
+[SSL Certificates and Certificate Authority Explained](https://www.youtube.com/watch?v=x_I6Qc35PuQ)
 
 
 ## Postman Tool
