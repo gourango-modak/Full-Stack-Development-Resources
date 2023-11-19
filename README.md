@@ -116,6 +116,7 @@
 
 [Full DevOps Course Series](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
 
+[Server Configuration, Deployment & VPS Tutorials For Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC)
 
 
 ## .NET framework developer Roadmap
