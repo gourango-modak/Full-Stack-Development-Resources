@@ -183,6 +183,8 @@ How to do web hosting Series #2
 
 [Web Server vs Application Server](https://www.youtube.com/watch?v=thJSev60yfg)
 
+[Difference Between Web Server and Application Server](https://www.youtube.com/watch?v=mRIa0Pd-U8c)
+
  - Apache HTTP Server
  - IIS
  - Nginx
