@@ -207,6 +207,8 @@ How to do web hosting Series #2
 
 [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
 
+[What is a Web and Web Service](https://www.youtube.com/watch?v=e3bz4dxoUII)
+
 
 
 ## Postman Tool
