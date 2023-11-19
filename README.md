@@ -118,3 +118,15 @@
 
 
 
+## .NET framework developer Roadmap
+
+[.NET Developer Learning Resources](https://github.com/gourango-modak/.NET-Developer-Learning-Resources)
+
+
+## Interview Preparation for Big Tech
+
+[Interview Preparation](https://github.com/gourango-modak/Interview-preparation)
+
+
+
+
