@@ -183,6 +183,8 @@ How to do web hosting Series #2
 
 [Web Server vs Application Server](https://www.youtube.com/watch?v=thJSev60yfg)
 
+[What are web servers and how do they work](https://www.youtube.com/watch?v=JhpUch6lWMw)
+
 [Difference Between Web Server and Application Server](https://www.youtube.com/watch?v=mRIa0Pd-U8c)
 
 [Difference between Web Server and Application Server](https://www.youtube.com/watch?v=WbbCSYWHXE0)
