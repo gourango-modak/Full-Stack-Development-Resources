@@ -112,3 +112,9 @@
 [Git Resources](https://github.com/gourango-modak/Interview-preparation/blob/master/Git/README.md)
 
 
+## DevOps
+
+[Full DevOps Course Series](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
+
+
+
