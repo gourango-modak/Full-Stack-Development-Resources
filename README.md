@@ -17,6 +17,12 @@
 [How Do I Choose the Right Web Framework](https://www.youtube.com/watch?v=kBgUITvR4cg)
 
 
+
+
+
+
+
+
 ## Library vs Framework
 
 [Difference between Library and Framework](https://www.youtube.com/watch?v=su4PSstbMcU)
@@ -24,6 +30,64 @@
 [Difference between a Library and a Framework](https://www.youtube.com/watch?v=sXA1zpv4DhA)
 
 [Module, Package & Library in python](https://www.youtube.com/watch?v=_la8LLl072w)
+
+
+
+
+
+
+
+
+
+## Architectural patterns
+
+[Software & Web Application Architecture](https://www.youtube.com/playlist?list=PLSyLGd0D0b4ThfElztKEueqQ5SIHJjUEU)
+
+[Difference between 1 Tier, 2 Tier, 3 Tier and Multi-tier Architecture](https://www.youtube.com/watch?v=xHIPuBLQwE4)
+
+[Introduction to MVC Architecture in Web Development](https://www.youtube.com/watch?v=e9GyAEkNA2w)
+
+[N Tier Architecture Tutorial](https://www.youtube.com/watch?v=xJC7ItRoEbw)
+
+[Web Application Architecture](https://www.youtube.com/playlist?list=PLUU3EzfPr915ebZONvUVHKm8Bls6D7EgA)
+
+[System Design: What is 3 tier architecture](https://www.youtube.com/watch?v=r8JuAz9_V18)
+
+[What is Software Architecture? (Monolithic vs. Layered vs. Microservice)](https://www.youtube.com/watch?v=_07NtoK-Kns)
+
+[Publish-Subscribe Architecture](https://www.youtube.com/watch?v=O1PgqUqZKTA)
+
+[Everything You NEED to Know About WEB APP Architecture](https://www.youtube.com/watch?v=sDlCSIDwpDs)
+
+[Application Architectures](https://www.youtube.com/watch?v=iyES7UwJfvw)
+
+[Software Architecture and Design](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6)
+
+[Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4)
+
+[10 Architecture Patterns Used In Enterprise Software Development Today](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+
+[Top 5 Most Used Architecture Patterns](https://www.youtube.com/watch?v=f6zXyq4VPP8)
+
+[How do large teams scale their Frontend applications](https://www.youtube.com/watch?v=O-Nm9j4pLE4)
+
+[A better alternative to plain Microservices (Self-Contained Systems)](https://www.youtube.com/watch?v=xkQ9VaNTwxM)
+
+[Frontend architecture: Decoupling apps from frameworks](https://www.youtube.com/watch?v=jmcx3b78V8s)
+
+[Monolith vs Micro frontEnd vs Monorepo | which is best?](https://www.youtube.com/watch?v=bkr3s9thtUE)
+
+[I used a Monorepo for 12 months - here’s my opinion](https://www.youtube.com/watch?v=rcmdyQL2DUM)
+
+[Mono repos at Swiggy | Microfrontends & Mono repos Explained](https://www.youtube.com/watch?v=m2cPEwwf8bc)
+
+[Scalable Front-end Architecture | How We Organize Our Projects](https://www.youtube.com/watch?v=YGxzxUFlHZI)
+
+
+
+
+
+
 
 
 ## Choose best UI library or framework to design User Interface
@@ -54,11 +118,29 @@
 - [Radix UI](https://www.radix-ui.com/)
 
 
+
+
+
+
+
+
+
+
+
 ## Frontend tech stack choose
 
 [TypeScript vs JavaScript](https://www.youtube.com/watch?v=HCXPJmtV47I)
 
 [Choose JS framework](https://www.youtube.com/watch?v=S7X6fLbdwlc)
+
+
+
+
+
+
+
+
+
 
 
 ## Build Tools
@@ -85,6 +167,14 @@
 
 
 
+
+
+
+
+
+
+
+
 ## Payment Gateways
 
 ### Stripe
@@ -98,6 +188,13 @@
 [Stripe Webhooks](https://www.youtube.com/watch?v=oYSLhriIZaA)
 
 
+
+
+
+
+
+
+
 ## CMS | DAM | Headless
 
 [CMS Architecture(Traditional vs Decoupled vs Headless vs Hybrid)](https://www.youtube.com/watch?v=9Iep1S_iAWk)
@@ -107,9 +204,26 @@
 [Everything You Need to Know About Digital Asset Management Software (DAM)](https://www.youtube.com/watch?v=vamBeAQ7EXw)
 
 
+
+
+
+
+
+
+
+
+
+
 ## GIT
 
 [Git Resources](https://github.com/gourango-modak/Interview-preparation/blob/master/Git/README.md)
+
+
+
+
+
+
+
 
 
 ## DevOps
@@ -118,15 +232,43 @@
 
 [Server Configuration, Deployment & VPS Tutorials For Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC)
 
+[10WeeksOfCloudOps Challenge - DevOps and Cloud Real-time](https://www.youtube.com/playlist?list=PLl4APkPHzsUUc8HOEIwfB3Z2uxRv2SKOG)
+
+[DevOps Tutorial for beginners](https://www.youtube.com/playlist?list=PLl4APkPHzsUX2loJZOo3XtITGtc9UQabd)
+
+[AWS Projects](https://www.youtube.com/playlist?list=PLwbWIFE49l8nkE3wYXluLUH3xrsnYx2vA)
+
+[DevOps Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
+
+
+
+
+
+
 
 ## .NET framework developer Roadmap
 
 [.NET Developer Learning Resources](https://github.com/gourango-modak/.NET-Developer-Learning-Resources)
 
 
+
+
+
+
+
+
+
 ## Interview Preparation for Big Tech
 
 [Interview Preparation](https://github.com/gourango-modak/Interview-preparation)
+
+
+
+
+
+
+
+
 
 
 ## Domain
@@ -142,6 +284,13 @@
 [Domain name full course](https://www.youtube.com/watch?v=9UigSTmCvxY)
 
 [What is Name Server and why do we need it](https://www.youtube.com/watch?v=WyDQhlRDad8)
+
+
+
+
+
+
+
 
 ## Website Hosting
 
@@ -182,6 +331,12 @@ How to do web hosting Series #2
 
 
 
+
+
+
+
+
+
 ## Webserver
 
 [Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw)
@@ -212,7 +367,19 @@ How to do web hosting Series #2
 
 
 
+
+
+
+
+
+
 ## Web Fundamentals
+
+[Dynamic Websites vs Static Pages vs Single Page Apps](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)
+
+[SPAs vs MPAs/MVC - Are Single Page Apps always better?](https://www.youtube.com/watch?v=F_BYg2QGsC0)
+
+[Multi page vs Single Page Applications - Which One Is Right For You?](https://www.youtube.com/watch?v=me5lS00Nj1k)
 
 [Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
 
