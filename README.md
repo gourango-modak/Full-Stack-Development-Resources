@@ -455,6 +455,9 @@ How to do web hosting Series #2
 [Design Pattern Series](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc)
 
 
+## Best Practices
+
+[Oops concepts](https://www.youtube.com/@CodeAesthetic/videos)
 
 
 
