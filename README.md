@@ -33,7 +33,7 @@
 
 [Best Roadmap to UI/UX Design Career in 2023: A Step-by-Step Guide](https://www.youtube.com/watch?v=F-8ZROUef5Q)
 
-
+[Figma Tutorial for UI Design](https://www.youtube.com/watch?v=jwCmIBJ8Jtc)
 
 
 
