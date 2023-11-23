@@ -6,6 +6,37 @@
 
 [Create a sensational landing page](https://spdload.com/blog/lead-generation-landing-page/)
 
+
+
+
+
+## Website design inital phase process
+
+[Ask Your Web Design Client These 8 Questions Before Starting a New Project](https://www.youtube.com/watch?v=dHpjq6bQuqQ)
+
+[Web Design Questionnaire - What to Ask Clients Before Designing a Website](https://www.youtube.com/watch?v=xx7EGf20LQw)
+
+[HOW TO PREP FOR WEB DESIGN CLIENT CALLS](https://www.youtube.com/watch?v=CUvV-xITthY)
+
+[Website Design Process for Clients (Start to Finish)](https://www.youtube.com/watch?v=8dswrw3l2iw)
+
+[My Website Build Process with the Client from Start to Finish](https://www.youtube.com/watch?v=YsZA43YEbmE)
+
+[Web Design From Start to Finish (Part 1): Wireframes & Content](https://www.youtube.com/watch?v=N_rUf1Vbnn8)
+
+[Web Design From Start to Finish (Part 2): The final design](https://www.youtube.com/watch?v=RuQHLc3b_50)
+
+
+
+
+## UI/UX Design
+
+[Best Roadmap to UI/UX Design Career in 2023: A Step-by-Step Guide](https://www.youtube.com/watch?v=F-8ZROUef5Q)
+
+
+
+
+
 ## How to choose tech stack
 
 [How to Choose a Technology Stack for Web Development](https://spdload.com/blog/choose-a-technology-stack-for-project/)
