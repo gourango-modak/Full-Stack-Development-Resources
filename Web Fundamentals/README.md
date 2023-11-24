@@ -10,6 +10,10 @@
 
 
 
+
+
+
+
 ## Accessibility
 
 [Accessibility Fundamentals with Rob Dodson](https://www.youtube.com/watch?v=z8xUCzToff8)
@@ -18,7 +22,18 @@
 
 
 
-## HTTP
+
+
+
+
+
+## Protocols
+
+
+
+
+
+### HTTP
 
 [Deep Dive into HTTP Caching: cache-control, no-cache, no-store, max-age, ETag and etc](https://www.youtube.com/watch?v=Cy2ZJOBgk84)
 
@@ -39,6 +54,43 @@
 
 
 
+### GraphQL
+
+[Modern GraphQL Crash Course - 2022](https://www.youtube.com/watch?v=qux4-yWeZvo)
+
+
+
+### WebSocket
+
+[WebSockets Crash Course - Handshake, Use-cases, Pros & Cons and more](https://www.youtube.com/watch?v=2Nt-ZrNP22A)
+
+
+
+### Server Sent Event
+
+[Server-Sent Events Crash Course](https://www.youtube.com/watch?v=4HlNv1qpZFY)
+
+
+
+
+
+
+
+
+
+## When to use appropiate protocol
+
+[HTTP Long Polling vs Server Sent Events vs Websockets](https://www.youtube.com/watch?v=1cFyfT0m3bA)
+
+[Long Polling and how it differs from Push, Poll and SSE](https://www.youtube.com/watch?v=J0okraIFPJ0)
+
+[Polling versus Streaming](https://www.youtube.com/watch?v=b4qyOpGg748)
+
+
+
+
+
+
 
 
 
@@ -47,6 +99,8 @@
 ### CORS
 
 [Cross Origin Resource Sharing](https://www.youtube.com/watch?v=Ka8vG5miErk&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=13)
+
+
 
 
 
