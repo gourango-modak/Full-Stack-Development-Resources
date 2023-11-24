@@ -5,6 +5,8 @@
 
 [Micro frontend in one hour | Micro frontend for beginners](https://www.youtube.com/watch?v=2UtHFeEB3G8)
 
+[Micro-Frontends Course - Beginner to Expert](https://www.youtube.com/watch?v=lKKsjpH09dU)
+
 [The Microfrontend Crash Course](https://www.youtube.com/watch?v=S84MG1eIhaI)
 
 
