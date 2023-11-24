@@ -15,7 +15,7 @@
 
 ## Frontend Architectures
 
-[Frontend Frameworks](Frontend%20Architectures/README.md)
+[Frontend Architectures](Frontend%20Architectures/README.md)
 
 
 
