@@ -328,41 +328,6 @@ How to do web hosting Series #2
 
 
 
-## Webserver
-
-[Web Server Concepts and Examples](https://www.youtube.com/watch?v=9J1nJOivdyw)
-
-[Web Server vs Application Server](https://www.youtube.com/watch?v=thJSev60yfg)
-
-[What are web servers and how do they work](https://www.youtube.com/watch?v=JhpUch6lWMw)
-
-[Difference Between Web Server and Application Server](https://www.youtube.com/watch?v=mRIa0Pd-U8c)
-
-[Difference between Web Server and Application Server](https://www.youtube.com/watch?v=WbbCSYWHXE0)
-
-[Nginx crash course](https://www.youtube.com/watch?v=FziEhnIpln4)
-
-[Apache & Nginx](https://www.youtube.com/watch?v=FMUl-9Ze8_k)
-
- - Apache HTTP Server
- - IIS
- - Nginx
- - Lightpd
-
-
-
-## Containerization
-
-[Docker Explained](https://www.youtube.com/watch?v=WoZobj2Ruj0)
-
-
-
-
-
-
-
-
-
 
 
 ## Postman Tool
@@ -372,7 +337,12 @@ How to do web hosting Series #2
 [Learn Postman](https://www.youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
 
 
+
+
 ## Operating System
+
+
+
 
 ### Linux
 
@@ -420,10 +390,6 @@ How to do web hosting Series #2
 [System Design Primer by Tech Primers](https://www.youtube.com/playlist?list=PLTyWtrsGknYeX_wV9ysDuuAxvxfSBfVSI)
 
 
-
-## Design Pattern
-
-[Design Pattern Series](https://www.youtube.com/playlist?list=PLlsmxlJgn1HJpa28yHzkBmUY-Ty71ZUGc)
 
 
 ## Best Practices
