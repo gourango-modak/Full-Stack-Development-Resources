@@ -2,7 +2,7 @@
 
 
 
-## Web design inital phase
+## Web design initial phase
 
 [What is an MVP?](https://spdload.com/blog/what-is-mvp/)
 
@@ -29,6 +29,11 @@
 
 
 
+
+
+## Project Management
+
+[Project Management](Project%20Management/README.md)
 
 
 
