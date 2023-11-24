@@ -147,13 +147,6 @@
 
 
 
-
-## Best Practices
-
-[Oops concepts](https://www.youtube.com/@CodeAesthetic/videos)
-
-
-
 ## Drawing Application
 
 [Excalidraw](https://excalidraw.com/)
