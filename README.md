@@ -21,6 +21,8 @@
 
 [HOW TO PREP FOR WEB DESIGN CLIENT CALLS](https://www.youtube.com/watch?v=CUvV-xITthY)
 
+[How to Earn 1 Lakh Per Month with Freelancing in 2023](https://www.youtube.com/watch?v=GP4pddrxJMU)
+
 [Website Design Process for Clients (Start to Finish)](https://www.youtube.com/watch?v=8dswrw3l2iw)
 
 [My Website Build Process with the Client from Start to Finish](https://www.youtube.com/watch?v=YsZA43YEbmE)
