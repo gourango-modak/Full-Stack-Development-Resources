@@ -42,3 +42,33 @@
 ### CORS
 
 [Cross Origin Resource Sharing](https://www.youtube.com/watch?v=Ka8vG5miErk&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=13)
+
+
+
+
+
+
+
+
+
+
+
+## Performance
+
+[How To Load Images Like A Pro](https://www.youtube.com/watch?v=hJ7Rg1821Q0)
+
+[Make Your Site Lightning Fast With Responsive Images](https://www.youtube.com/watch?v=fp9eVtkQ4EA)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
