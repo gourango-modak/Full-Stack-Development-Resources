@@ -238,14 +238,6 @@ How to do web hosting Series #2
 
 
 
-
-### Backend System Design
-
-[System Design Primer by Tech Primers](https://www.youtube.com/playlist?list=PLTyWtrsGknYeX_wV9ysDuuAxvxfSBfVSI)
-
-
-
-
 ## Best Practices
 
 [Oops concepts](https://www.youtube.com/@CodeAesthetic/videos)
