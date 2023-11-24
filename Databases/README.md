@@ -1,7 +1,11 @@
 
 # Databases
 
+[7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+
 
 ## Firebase Database
 
-[https://www.youtube.com/watch?v=fgdpvwEWJ9M](https://www.youtube.com/watch?v=fgdpvwEWJ9M)
+[Firebase – Full Course for Beginners](https://www.youtube.com/watch?v=fgdpvwEWJ9M)
+
+[I tried 5 Firebase alternatives](https://www.youtube.com/watch?v=SXmYUalHyYk)
