@@ -138,12 +138,6 @@
 
 [A better alternative to plain Microservices (Self-Contained Systems)](https://www.youtube.com/watch?v=xkQ9VaNTwxM)
 
-[Frontend architecture: Decoupling apps from frameworks](https://www.youtube.com/watch?v=jmcx3b78V8s)
-
-[Monolith vs Micro frontEnd vs Monorepo | which is best?](https://www.youtube.com/watch?v=bkr3s9thtUE)
-
-[Scalable Front-end Architecture | How We Organize Our Projects](https://www.youtube.com/watch?v=YGxzxUFlHZI)
-
 [MVVM Vs MVC | MVVM & MVC Architectures](https://www.youtube.com/watch?v=XGhRYLLLHiA)
 
 
