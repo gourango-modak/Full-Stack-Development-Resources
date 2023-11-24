@@ -7,9 +7,13 @@
 [Create a sensational landing page](https://spdload.com/blog/lead-generation-landing-page/)
 
 
+
+
 ## Frontend Frameworks
 
 [Frontend Frameworks](Frontend%20Frameworks/README.md)
+
+
 
 
 
@@ -18,9 +22,22 @@
 [Frontend Architectures](Frontend%20Architectures/README.md)
 
 
+
+
 ## Backend
 
 [Backend](Backends/Authentications/README.md)
+
+
+
+
+
+## Web Fundamentals
+
+[Web Fundamentals](Web%20Fundamentals/README.md)
+
+
+
 
 
 ## Databases
