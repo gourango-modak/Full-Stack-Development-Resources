@@ -10,6 +10,11 @@
 
 
 
+## Accessibility
+
+[Accessibility Fundamentals with Rob Dodson](https://www.youtube.com/watch?v=z8xUCzToff8)
+
+
 
 
 
@@ -64,6 +69,12 @@
 
 
 
+## Web Security
+
+
+[Introduction to Web Security | Web Security Crash Course](https://www.youtube.com/watch?v=80VviDER96I)
+
+[7 Security Risks and Hacking Stories for Web Developers](https://www.youtube.com/watch?v=4YOpILi9Oxs)
 
 
 
