@@ -133,10 +133,6 @@
 
 [Monolith vs Micro frontEnd vs Monorepo | which is best?](https://www.youtube.com/watch?v=bkr3s9thtUE)
 
-[I used a Monorepo for 12 months - here’s my opinion](https://www.youtube.com/watch?v=rcmdyQL2DUM)
-
-[Mono repos at Swiggy | Microfrontends & Mono repos Explained](https://www.youtube.com/watch?v=m2cPEwwf8bc)
-
 [Scalable Front-end Architecture | How We Organize Our Projects](https://www.youtube.com/watch?v=YGxzxUFlHZI)
 
 [MVVM Vs MVC | MVVM & MVC Architectures](https://www.youtube.com/watch?v=XGhRYLLLHiA)
