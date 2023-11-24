@@ -13,19 +13,6 @@
 [UI/UX](UI_UX/README.md)
 
 
-## Frontend Frameworks
-
-[Frontend Frameworks](Frontend%20Frameworks/README.md)
-
-
-
-
-
-## Frontend Architectures
-
-[Frontend Architectures](Frontend%20Architectures/README.md)
-
-
 
 
 ## Backend Design
