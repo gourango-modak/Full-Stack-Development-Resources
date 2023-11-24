@@ -50,6 +50,13 @@
 
 
 
+
+## GIT
+
+[GIT](GIT/README.md)
+
+
+
 ## Website design inital phase process
 
 [Ask Your Web Design Client These 8 Questions Before Starting a New Project](https://www.youtube.com/watch?v=dHpjq6bQuqQ)
@@ -272,22 +279,6 @@
 
 
 
-
-
-
-
-## GIT
-
-[Git Resources](https://github.com/gourango-modak/Interview-preparation/blob/master/Git/README.md)
-
-
-
-
-
-
-
-
-
 ## DevOps
 
 [Full DevOps Course Series](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa)
@@ -434,24 +425,6 @@ How to do web hosting Series #2
 
 
 
-
-## Web Fundamentals
-
-[Dynamic Websites vs Static Pages vs Single Page Apps](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)
-
-[SPAs vs MPAs/MVC - Are Single Page Apps always better?](https://www.youtube.com/watch?v=F_BYg2QGsC0)
-
-[Multi page vs Single Page Applications - Which One Is Right For You?](https://www.youtube.com/watch?v=me5lS00Nj1k)
-
-[Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
-
-[What is a Web and Web Service](https://www.youtube.com/watch?v=e3bz4dxoUII)
-
-[SSL Certificates and Certificate Authority Explained](https://www.youtube.com/watch?v=x_I6Qc35PuQ)
-
-[What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
-
-[Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
 
 
 ## Postman Tool
