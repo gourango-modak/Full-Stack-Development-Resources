@@ -13,5 +13,12 @@
 
 [What Is Email Only Authentication - Magic Link Auth](https://www.youtube.com/watch?v=b6qHfPdv4Y8)
 
+[Truth about Passwordless Authentication and How to Use It](https://www.youtube.com/watch?v=bgd6xxXyEmo)
+
+
+
+
+
+
 
 
