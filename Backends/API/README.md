@@ -38,3 +38,11 @@
 [Rest API - Best Practices - Design](https://www.youtube.com/watch?v=1Wl-rtew1_E)
 
 [Industry Level REST API using .NET 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=PmDJIooZjBE)
+
+[REST API Web Service Best Practices](https://www.youtube.com/watch?v=NzgFdEGI8sI)
+
+[REST API Mistakes Every Junior Developer should Avoid | clean-code](https://www.youtube.com/watch?v=JxeTegu4dD8)
+
+
+
+
