@@ -25,6 +25,12 @@
 
 
 
+## OOPS Concepts
+
+[Oops Concepts](https://www.youtube.com/@CodeAesthetic/videos)
+
+
+
 
 ## Design Pattern
 
