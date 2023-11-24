@@ -189,26 +189,39 @@
 
 [Managed Database hosting](https://www.youtube.com/watch?v=XpR7p71PE0I)
 
-How to do web hosting Series #1
- - [Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
- - [Video #2](https://www.youtube.com/watch?v=na0CLsaWxBQ)
- - [Video #3](https://www.youtube.com/watch?v=AwtGjPOx1P8)
- - [Video #4](https://www.youtube.com/watch?v=xGOk7FW9Dww)
- - [Video #5](https://www.youtube.com/watch?v=ELWdKXOoMuA)
- - [Video #6](https://www.youtube.com/watch?v=vCoYrKdlbeg)
- - [Video #7](https://www.youtube.com/watch?v=PS4h1Ug7h-E)
- - [Video #8](https://www.youtube.com/watch?v=a0cp1bmcJWw)
- - [Video #9](https://www.youtube.com/watch?v=D7GaDfXkFbU)
- - [Video #10](https://www.youtube.com/watch?v=Zs5CyLq4ms0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=98)
- - [Video #11](https://www.youtube.com/watch?v=xQuEKvkc-2c&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=99)
+[Video #1](https://www.youtube.com/watch?v=tCWPpN4nE-M)
 
-How to do web hosting Series #2
- - [Video #1](https://www.youtube.com/watch?v=rm8AhGGYEVA&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=2)
- - [Video #2](https://www.youtube.com/watch?v=4LmTjKuvpYs&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=7)
- - [Video #3](https://www.youtube.com/watch?v=Nz9GrCHEOqk&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=9)
- - [Video #4](https://www.youtube.com/watch?v=AJDWgdH3oFg&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=11)
- - [Video #5 - Unlimited Sub-domains](https://www.youtube.com/watch?v=8YvFbVpN0to&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=13)
- - [Video #6](https://www.youtube.com/watch?v=9BO5PbjzKHs&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=14)
+[Video #2](https://www.youtube.com/watch?v=na0CLsaWxBQ)
+
+[Video #3](https://www.youtube.com/watch?v=AwtGjPOx1P8)
+
+[Video #4](https://www.youtube.com/watch?v=xGOk7FW9Dww)
+
+[Video #5](https://www.youtube.com/watch?v=ELWdKXOoMuA)
+
+[Video #6](https://www.youtube.com/watch?v=vCoYrKdlbeg)
+
+[Video #7](https://www.youtube.com/watch?v=PS4h1Ug7h-E)
+
+[Video #8](https://www.youtube.com/watch?v=a0cp1bmcJWw)
+
+[Video #9](https://www.youtube.com/watch?v=D7GaDfXkFbU)
+
+[Video #10](https://www.youtube.com/watch?v=Zs5CyLq4ms0&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=98)
+
+[Video #11](https://www.youtube.com/watch?v=xQuEKvkc-2c&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg&index=99)
+
+[Video #1](https://www.youtube.com/watch?v=rm8AhGGYEVA&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=2)
+
+[Video #2](https://www.youtube.com/watch?v=4LmTjKuvpYs&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=7)
+
+[Video #3](https://www.youtube.com/watch?v=Nz9GrCHEOqk&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=9)
+
+[Video #4](https://www.youtube.com/watch?v=AJDWgdH3oFg&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=11)
+
+[Video #5 - Unlimited Sub-domains](https://www.youtube.com/watch?v=8YvFbVpN0to&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=13)
+
+[Video #6](https://www.youtube.com/watch?v=9BO5PbjzKHs&list=PLwGdqUZWnOp0ND1_EVCS-hClmA168Ky1L&index=14)
 
 
 
