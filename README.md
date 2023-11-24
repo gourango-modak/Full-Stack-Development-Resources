@@ -137,16 +137,6 @@
 
 
 
-## Postman Tool
-
-[Postman tool full crash course](https://www.youtube.com/playlist?list=PL6iUkDSEH9StfnjSTCsASTZbivezT18mW)
-
-[Learn Postman](https://www.youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
-
-
-
-
-
 ## Drawing Application
 
 [Excalidraw](https://excalidraw.com/)
