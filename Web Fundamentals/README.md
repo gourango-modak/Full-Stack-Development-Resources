@@ -3,9 +3,24 @@
 
 [What happens when you type google.com into your browser and press enter](https://www.youtube.com/watch?v=dh406O2v_1c&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=27)
 
+[Dynamic Websites vs Static Pages vs Single Page Apps](https://www.youtube.com/watch?v=Kg0Q_YaQ3Gk)
+
+[SPAs vs MPAs/MVC - Are Single Page Apps always better?](https://www.youtube.com/watch?v=F_BYg2QGsC0)
+
+[Multi page vs Single Page Applications - Which One Is Right For You?](https://www.youtube.com/watch?v=me5lS00Nj1k)
+
+[Difference between cookies, session and tokens](https://www.youtube.com/watch?v=GhrvZ5nUWNg)
+
+[What is a Web and Web Service](https://www.youtube.com/watch?v=e3bz4dxoUII)
+
+[SSL Certificates and Certificate Authority Explained](https://www.youtube.com/watch?v=x_I6Qc35PuQ)
+
+[What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
+
 [Server Name Indication (SNI)](https://www.youtube.com/watch?v=t0zlO5-NWFU&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=28)
 
 [Hosting 3 WebSites on one IP Address with SNI and HAProxy](https://www.youtube.com/watch?v=CxamHNc3U4A&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=29)
+
 
 
 
@@ -36,6 +51,8 @@
 ### HTTP
 
 [Deep Dive into HTTP Caching: cache-control, no-cache, no-store, max-age, ETag and etc](https://www.youtube.com/watch?v=Cy2ZJOBgk84)
+
+[Hyper Text Transfer Protocol Crash Course - HTTP 1.0, 1.1, HTTP/2, HTTP/3](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
 
 [How HTTP/2 Works, Performance, Pros & Cons and More](https://www.youtube.com/watch?v=fVKPrDrEwTI&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=20)
 
