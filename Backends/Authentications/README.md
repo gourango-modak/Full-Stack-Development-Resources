@@ -9,4 +9,4 @@
 
 [API Key Authentication Best Practices](https://www.youtube.com/watch?v=ooyOmiczY1g)
 
-[]()
+[Everything You Ever Wanted to Know About Authentication](https://www.youtube.com/watch?v=j8Yxff6L_po)
