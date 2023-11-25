@@ -5,3 +5,5 @@
 ## Roadmaps
 
 [How to Start App Development? Complete RoadMap | 2023-24](https://www.youtube.com/watch?v=7nQsQ0rvYqQ)
+
+[Android Developer: this is for you](https://www.youtube.com/watch?v=VkR6xAdJxyc)
