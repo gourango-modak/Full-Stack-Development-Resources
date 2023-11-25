@@ -2,6 +2,10 @@
 # Mobile Application Development
 
 
+[Mobile frameworks - Comparing the big guns: Ionic, Electron, React Native, Flutter and .NET MAUI](https://www.youtube.com/watch?v=WlqTSOSLFJA)
+
+[Is MAUI the End of Xamarin?](https://www.youtube.com/watch?v=iuqwVDyy14M)
+
 [Web Apps vs. PWA vs. Hybrid vs. Native: What's the Difference?](https://www.youtube.com/watch?v=PV9ThwQegks)
 
 [What Are Progressive Web Apps? PWA vs Flutter / React Native](https://www.youtube.com/watch?v=3cIee4VfD9s)
