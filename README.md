@@ -63,15 +63,15 @@
 [Content Management System](Content%20Management%20System/README.md)
 
 
-## Frontend Design
+## Frontend Development
 
-[Frontend Design](Frontend%20Design/README.md)
+[Frontend Development](Frontend%20Development/README.md)
 
 
 
-## Backend Design
+## Backend Development
 
-[Backend Design](Backend%20Design/README.md)
+[Backend Development](Backend%20Development/README.md)
 
 
 
