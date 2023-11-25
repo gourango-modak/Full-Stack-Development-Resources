@@ -2,43 +2,43 @@
 # Web Development
 
 
-## Frontend Fundamentals
+## Fundamentals
 
-[Frontend Fundamentals](Frontend%20Fundamentals/README.md)
-
-
-
-
-
-## Frontend Frameworks
-
-[Frontend Frameworks](Frontend%20Frameworks/README.md)
+[Frontend Fundamentals](Fundamentals/README.md)
 
 
 
 
 
-## Frontend Architectures
+## Frameworks
 
-[Frontend Architectures](Frontend%20Architectures/README.md)
-
-
-
-
-
-## Frontend Build Tools
-
-[Frontend Build Tools](Frontend%20Build%20Tools/README.md)
-
-
-
-## Frontend System Design
-
-[Frontend System Design](Frontend%20System%20Design/README.md)
+[Frontend Frameworks](Frameworks/README.md)
 
 
 
 
-## Frontend Languages
 
-[Frontend Languages](Frontend%20Laguages/README.md)
+## Architectures
+
+[Frontend Architectures](Architectures/README.md)
+
+
+
+
+
+## Build Tools
+
+[Frontend Build Tools](Build%20Tools/README.md)
+
+
+
+## System Design
+
+[Frontend System Design](System%20Design/README.md)
+
+
+
+
+## Languages
+
+[Frontend Languages](Laguages/README.md)
