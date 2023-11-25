@@ -38,5 +38,5 @@
 
 [MVVM Vs MVC | MVVM & MVC Architectures](https://www.youtube.com/watch?v=XGhRYLLLHiA)
 
-
+[MVC Design Pattern | MVC Architecture Overview](https://www.youtube.com/watch?v=lJBbvb7p__o&t=693s)
 
