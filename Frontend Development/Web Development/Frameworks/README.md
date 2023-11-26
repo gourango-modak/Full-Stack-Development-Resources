@@ -23,6 +23,8 @@
 
 [What is Hydration](https://www.youtube.com/watch?v=R-BKadZWYnQ)
 
+[React: Software Architecture](https://www.youtube.com/playlist?list=PLgeETUaEEds75rwfCOKPoND__EaZAwkS8)
+
 [React App with Webpack & Babel (ES6+, source maps, hot reload, and more)](https://www.youtube.com/watch?v=dOU4FBNVnl8)
 
 [What is Server-Side Rendering (and Why Create React App doesn't support it)](https://www.youtube.com/watch?v=8_RzRQXSHcg)
