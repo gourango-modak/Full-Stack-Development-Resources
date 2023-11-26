@@ -21,6 +21,8 @@
 
 ## NEXT.js Framework
 
+[What is Server Side Rendering - Say hi to Next.js](https://www.youtube.com/watch?v=721mxZ3XHf8)
+
 [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/watch?v=DZKOunP-WLQ&list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG)
 
 [Next js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT)
