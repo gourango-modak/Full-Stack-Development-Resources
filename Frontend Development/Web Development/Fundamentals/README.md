@@ -32,3 +32,12 @@
 ## Use of robots.txt file
 
 [What is Robots.txt & How to Create Robots.txt File? | SEO Tutorial](https://www.youtube.com/watch?v=Ivd40EidXKI)
+
+
+## Use of favicon
+
+[Add A Favicon to a Website in HTML | How to generate Favicon](https://www.youtube.com/watch?v=cVWJbtQ8SAc)
+
+
+
+
