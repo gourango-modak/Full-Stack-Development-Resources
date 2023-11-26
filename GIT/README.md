@@ -1,6 +1,7 @@
 
 # GIT
 
+[Stand Out in the Job Market: 9 Github resume Practices for Developers](https://www.youtube.com/watch?v=G61j71LoCgQ)
 
 
 ## Crash Courses
