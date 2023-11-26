@@ -27,3 +27,8 @@
 ## Use of manifest file
 
 [The Web App Manifest](https://www.youtube.com/watch?v=AlEdGOLhuM8)
+
+
+## Use of robots.txt file
+
+[What is Robots.txt & How to Create Robots.txt File? | SEO Tutorial](https://www.youtube.com/watch?v=Ivd40EidXKI)
