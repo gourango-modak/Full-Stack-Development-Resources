@@ -1,6 +1,8 @@
 
 # Fronted Fundamentals
 
+[Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)
+
 [JavaScript Memory Leaks and How To Fix Them](https://www.youtube.com/watch?v=IkoGmbNJolo)
 
 
