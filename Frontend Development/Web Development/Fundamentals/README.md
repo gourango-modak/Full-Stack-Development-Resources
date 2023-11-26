@@ -22,3 +22,8 @@
 [Difference between a Library and a Framework](https://www.youtube.com/watch?v=sXA1zpv4DhA)
 
 [Module, Package & Library in python](https://www.youtube.com/watch?v=_la8LLl072w)
+
+
+## Use of manifest file
+
+[The Web App Manifest](https://www.youtube.com/watch?v=AlEdGOLhuM8)
