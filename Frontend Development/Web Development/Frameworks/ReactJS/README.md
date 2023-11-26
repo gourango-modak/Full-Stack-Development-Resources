@@ -26,4 +26,16 @@
 
 ## Optimizations
 
-[Optimizing Rendering Performance in React](https://www.youtube.com/watch?v=tbBILjDgXb4)
+[Optimizing in React](https://www.youtube.com/playlist?list=PL5Lsd0YA4OMGX-uul2qKTa5O_KxgsUi6i)
+
+[How To Increase Performance in React Apps](https://www.youtube.com/watch?v=sTlUhEYEc-M)
+
+[You are loading Images wrong! Use this instead](https://www.youtube.com/watch?v=8viWcH5bUE4)
+
+[React Lazy Load Code to Load Faster | React Code Splitting Tutorial](https://www.youtube.com/watch?v=nS5qbSJLGx8)
+
+[How To Maximize Performance In Your React Apps](https://www.youtube.com/watch?v=Qwb-Za6cBws)
+
+
+
+
