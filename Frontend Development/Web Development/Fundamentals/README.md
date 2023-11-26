@@ -1,13 +1,15 @@
 
 # Fronted Fundamentals
 
+[JavaScript Memory Leaks and How To Fix Them](https://www.youtube.com/watch?v=IkoGmbNJolo)
+
+
 
 ## How to choose frontend tech stack
 
 [TypeScript vs JavaScript](https://www.youtube.com/watch?v=HCXPJmtV47I)
 
 [Choose JS framework](https://www.youtube.com/watch?v=S7X6fLbdwlc)
-
 
 
 
