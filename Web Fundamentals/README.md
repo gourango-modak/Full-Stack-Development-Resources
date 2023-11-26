@@ -21,6 +21,8 @@
 
 [Hosting 3 WebSites on one IP Address with SNI and HAProxy](https://www.youtube.com/watch?v=CxamHNc3U4A&list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&index=29)
 
+[What is Server-Side Rendering (and Why Create React App doesn't support it)](https://www.youtube.com/watch?v=8_RzRQXSHcg)
+
 
 
 
