@@ -5,6 +5,8 @@
 
 [JavaScript Memory Leaks and How To Fix Them](https://www.youtube.com/watch?v=IkoGmbNJolo)
 
+[What is Server Side Rendering](https://www.youtube.com/watch?v=721mxZ3XHf8)
+
 
 
 ## How to choose frontend tech stack
