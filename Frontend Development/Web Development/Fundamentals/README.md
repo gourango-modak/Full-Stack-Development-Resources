@@ -11,6 +11,10 @@
 
 ## How to choose frontend tech stack
 
+[10 Rendering Patterns for Web Apps](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
+
+[React Frameworks: Which one to Use for Best Output](https://www.youtube.com/watch?v=m98I8EEzlYA)
+
 [TypeScript vs JavaScript](https://www.youtube.com/watch?v=HCXPJmtV47I)
 
 [Choose JS framework](https://www.youtube.com/watch?v=S7X6fLbdwlc)
