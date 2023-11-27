@@ -15,6 +15,8 @@
 
 [React Frameworks: Which one to Use for Best Output](https://www.youtube.com/watch?v=m98I8EEzlYA)
 
+[React Server Components are a bad choice (for shipping)](https://www.youtube.com/watch?v=dH6_cJwgHnM)
+
 [TypeScript vs JavaScript](https://www.youtube.com/watch?v=HCXPJmtV47I)
 
 [Choose JS framework](https://www.youtube.com/watch?v=S7X6fLbdwlc)
