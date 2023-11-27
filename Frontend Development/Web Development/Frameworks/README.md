@@ -35,3 +35,24 @@
 [Next.js & Appwrite – Full Stack Course for Beginners](https://www.youtube.com/watch?v=ETV17M4SauU)
 
 [Next.js Full Course for Beginners](https://www.youtube.com/watch?v=843nec-IvW0)
+
+
+
+
+## Blazor
+
+[.NET 8 Blazor: Render Modes + Demo App Download](https://www.youtube.com/watch?v=u4azTLLGt8U)
+
+[Mastering .NET 8 Blazor: Server-side Rendering (SSR)](https://www.youtube.com/watch?v=2kGR1lgEL50)
+
+[Mastering .NET 8 Blazor: Web Assembly Render Mode](https://www.youtube.com/watch?v=by0R12OQyV8)
+
+[Mastering .NET 8 Blazor: SignalR Render Mode](https://www.youtube.com/watch?v=T6KqwUX3oEc)
+
+
+
+
+
+
+
+
