@@ -50,6 +50,9 @@
 [Mastering .NET 8 Blazor: SignalR Render Mode](https://www.youtube.com/watch?v=T6KqwUX3oEc)
 
 
+## Qwik
+
+[Why is Qwik So Powerful?](https://www.youtube.com/watch?v=t11M-Fj6iiQ)
 
 
 
