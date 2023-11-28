@@ -32,9 +32,11 @@
 [Module, Package & Library in python](https://www.youtube.com/watch?v=_la8LLl072w)
 
 
-## Babel
+## Babel | Traceur
 
 [What is Babel and why you need it? Introduction to Babel 7](https://www.youtube.com/watch?v=yLrNwo4wXOs)
+
+[Babel Crash Course | Introduction | Babel Tutorial | Installation | Babel CLI | Webpack](https://www.youtube.com/watch?v=JJzrWJ83ey8)
 
 [Babel Full Course - Get Started](https://www.youtube.com/playlist?list=PL_euSNU_eLbejfEUD0msUF8xf_Zjz2f8r)
 
