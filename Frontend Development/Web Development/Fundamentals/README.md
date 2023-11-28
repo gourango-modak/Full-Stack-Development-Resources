@@ -41,6 +41,10 @@
 [Babel Full Course - Get Started](https://www.youtube.com/playlist?list=PL_euSNU_eLbejfEUD0msUF8xf_Zjz2f8r)
 
 
+## CommonJS vs ES6 module
+
+[Require vs Import Javascript](https://www.youtube.com/watch?v=mK54Cn4ceac)
+
 
 ## Use of manifest file
 
