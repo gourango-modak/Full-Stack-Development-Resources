@@ -24,6 +24,8 @@
 
 ## Courses
 
+[Complete React & Redux Tutorial](https://www.youtube.com/watch?v=eILUmCJhl64)
+
 [Complete react course with 10 projects](https://www.youtube.com/watch?v=4DqAvWonPAg)
 
 
