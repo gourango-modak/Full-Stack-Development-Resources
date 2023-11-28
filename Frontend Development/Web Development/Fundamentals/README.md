@@ -46,6 +46,13 @@
 [Require vs Import Javascript](https://www.youtube.com/watch?v=mK54Cn4ceac)
 
 
+## Transpiler vs Polyfills
+
+[Difference Between Transpiler & Polyfills | Babeljs | core-js | Javascript](https://www.youtube.com/watch?v=BOT9J6GJS2E)
+
+[In depth- How to get polyfills with Babel 7 and Webpack](https://www.youtube.com/watch?v=YXtQms2msZQ)
+
+
 ## Use of manifest file
 
 [The Web App Manifest](https://www.youtube.com/watch?v=AlEdGOLhuM8)
