@@ -133,7 +133,9 @@
 
 ## Software Versioning
 
-[oftware Versioning Explained - Semantic (SemVer), Calendar (CalVer), etc](https://www.youtube.com/watch?v=xvPiZyx0cDc)
+[Software Versioning Explained - Semantic (SemVer), Calendar (CalVer), etc](https://www.youtube.com/watch?v=xvPiZyx0cDc)
+
+[Understanding Semantic Versioning with Real World Examples](https://www.youtube.com/watch?v=1zBzkT7QCmA)
 
 
 ## Drawing Application
