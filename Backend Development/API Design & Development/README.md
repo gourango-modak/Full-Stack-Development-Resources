@@ -52,3 +52,21 @@
 
 [Learn Postman](https://www.youtube.com/playlist?list=PL6iUkDSEH9SvsgM4zyFrTnaewN65NZHAG)
 
+[Postman API Test Automation for Beginners](https://www.youtube.com/watch?v=zp5Jh2FIpF0)
+
+
+
+## Security
+
+
+[API Security for PCI Compliance (Data Security Standard)](https://www.youtube.com/watch?v=dlK7jec2rXo)
+
+[OWASP API Security Top 10 Course – Secure Your Web Apps](https://www.youtube.com/watch?v=YYe0FdfdgDU)
+
+
+
+
+
+
+
+
