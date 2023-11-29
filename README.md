@@ -57,6 +57,10 @@
 [How Do I Choose the Right Web Framework](https://www.youtube.com/watch?v=kBgUITvR4cg)
 
 
+## IDE
+
+[VS Code Tutorial – Become More Productive](https://www.youtube.com/watch?v=heXQnM99oAI)
+
 
 ## Content Management System
 
