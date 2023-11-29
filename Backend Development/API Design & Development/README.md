@@ -25,7 +25,7 @@
 
 [Thundering Herd Problem and How not to do API retries](https://www.youtube.com/watch?v=8sTuCPh3s0s)
 
-
+[API Documentation Best Practices – Full Course](https://www.youtube.com/watch?v=0CSyIBHQy9g)
 
 
 
