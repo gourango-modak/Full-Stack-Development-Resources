@@ -131,6 +131,11 @@
 [Blockchain](Blockchain/README.md)
 
 
+## Software Versioning
+
+[oftware Versioning Explained - Semantic (SemVer), Calendar (CalVer), etc](https://www.youtube.com/watch?v=xvPiZyx0cDc)
+
+
 ## Drawing Application
 
 [Excalidraw](https://excalidraw.com/)
