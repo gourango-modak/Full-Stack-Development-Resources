@@ -12,6 +12,7 @@
 
 [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 
+[GIT - Complete Course Tutorial](https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX)
 
 
 
