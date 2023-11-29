@@ -142,6 +142,22 @@
 [Understanding Semantic Versioning with Real World Examples](https://www.youtube.com/watch?v=1zBzkT7QCmA)
 
 
+
+## Software Licenseing
+
+[Software licenses & OSS](https://www.youtube.com/watch?v=rKHIFBJqZlI)
+
+[What is Software Licensing ? | Classification of Software License](https://www.youtube.com/watch?v=fqohXUcAaVI)
+
+[Software Licensing and Why You NEED to be Careful](https://www.youtube.com/watch?v=0fK2aFSYauw)
+
+[An Introduction to Software Licensing - Steven Zimmerman](https://www.youtube.com/watch?v=_umPfRHFWzM)
+
+[Free and Open Source software licenses explained](https://www.youtube.com/watch?v=UMIG4KnM8xw)
+
+[Understanding Software Licensing](https://www.youtube.com/watch?v=BN7RwEKpvvc)
+
+
 ## Drawing Application
 
 [Excalidraw](https://excalidraw.com/)
