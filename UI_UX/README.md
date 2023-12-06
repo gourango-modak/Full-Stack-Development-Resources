@@ -22,6 +22,8 @@
 
 ## Design System
 
+[Design System kya hai | What is Design System in Hindi](https://www.youtube.com/watch?v=Y5iOAeHtRTw)
+
 [Introduction to design systems](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A)
 
 [How to Build a Design System Scalable and Consistent | Explained in Bangla](https://www.youtube.com/watch?v=j9c0MU57WuI)
