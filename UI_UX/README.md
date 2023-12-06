@@ -14,6 +14,10 @@
 [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals](https://www.youtube.com/watch?v=uL2ZB7XXIgg)
 
 
+## Design System
+
+[Introduction to design systems](https://www.youtube.com/playlist?list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A)
+
 ## Tools
 
 [Figma Tutorial for UI Design](https://www.youtube.com/watch?v=jwCmIBJ8Jtc)
