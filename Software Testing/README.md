@@ -23,3 +23,8 @@
 ## Cypress
 
 [Cypress - JavaScript End to End Testing](https://www.youtube.com/playlist?list=PLUDwpEzHYYLvA7QFkC1C0y0pDPqYS56iU)
+
+
+## AB Testing
+
+[What is A/B Testing](https://www.youtube.com/watch?v=RpAW0jq-3Iw)
