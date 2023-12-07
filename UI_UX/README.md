@@ -54,7 +54,7 @@
 
 [Tokens, variables, and styles - Update: Introduction to design systems](https://www.youtube.com/watch?v=JyCmacSyDY4)
 
-
+[Figma Variables & Design Tokens: Elevate Your Designs and Collaboration](https://www.youtube.com/watch?v=2p2emG4abm0)
 
 
 
