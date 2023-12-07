@@ -52,6 +52,7 @@
 
 [What are Design Tokens](https://www.youtube.com/watch?v=wtTstdiBuUk)
 
+[Tokens, variables, and styles - Update: Introduction to design systems](https://www.youtube.com/watch?v=JyCmacSyDY4)
 
 
 
@@ -66,3 +67,15 @@
 ## Tools
 
 [Figma Tutorial for UI Design](https://www.youtube.com/watch?v=jwCmIBJ8Jtc)
+
+[Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw)
+
+
+
+
+
+
+
+
+
+
