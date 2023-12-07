@@ -36,6 +36,8 @@
 
 ## UI/UX Courses
 
+[UI UX Design Full Course with Figma & more](https://www.youtube.com/playlist?list=PLvDSYqFjjGrjIDkeaXwQPwBVKR3D4vsAH)
+
 [UI UX Design Tutorials in Hindi](https://www.youtube.com/playlist?list=PLjdlq52zOW17HfUGvOY-cITr0PYWlgcyj)
 
 [UI/UX Design for Beginners](https://www.youtube.com/playlist?list=PLWbE3N6PuWU69Y-9-upP7D9y4-uJGiZvZ)
