@@ -40,6 +40,8 @@
 
 [Google UX Design Professional Certificate Courses](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlUWixdH_1Q2yzZh8QJSBVmT)
 
+[Best UI UX Design Course | Best UI UX Training](https://www.youtube.com/watch?v=Qmhv1_Z7MIA)
+
 [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
 
 [UI UX Design Full Course with Figma & more](https://www.youtube.com/playlist?list=PLvDSYqFjjGrjIDkeaXwQPwBVKR3D4vsAH)
