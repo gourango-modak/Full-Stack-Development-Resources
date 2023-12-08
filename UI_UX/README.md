@@ -44,7 +44,7 @@
 
 [UI/UX Design for Beginners](https://www.youtube.com/playlist?list=PLWbE3N6PuWU69Y-9-upP7D9y4-uJGiZvZ)
 
-
+[UX Course](https://www.youtube.com/playlist?list=PLW-zSkCnZ-gBtmXf9AfRbA90GnBv7o2gS)
 
 
 
