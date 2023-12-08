@@ -36,6 +36,8 @@
 
 ## UI/UX Courses
 
+[Ui/UX Design | Complete Trainings | Urdu\Hindi](https://www.youtube.com/playlist?list=PLspW40rZgNemcESvd7g9mz8gldTKTLy-d)
+
 [UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
 
 [UI UX Design Full Course with Figma & more](https://www.youtube.com/playlist?list=PLvDSYqFjjGrjIDkeaXwQPwBVKR3D4vsAH)
