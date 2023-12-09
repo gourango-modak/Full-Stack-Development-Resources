@@ -52,7 +52,7 @@
 
 [UX Course](https://www.youtube.com/playlist?list=PLW-zSkCnZ-gBtmXf9AfRbA90GnBv7o2gS)
 
-
+[Design Process](https://www.youtube.com/playlist?list=PLLjNrg10TjR6a5NMlYi24_y39zoduSdXE)
 
 
 
