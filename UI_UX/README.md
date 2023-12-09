@@ -78,6 +78,8 @@
 
 [Figma Tutorial for UI Design](https://www.youtube.com/watch?v=jwCmIBJ8Jtc)
 
+[Figma Made Easy: A Comprehensive Beginner's Tutorial](https://www.youtube.com/watch?v=Ed1ineovwzg)
+
 [Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw)
 
 
