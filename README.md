@@ -62,9 +62,26 @@
 [VS Code Tutorial – Become More Productive](https://www.youtube.com/watch?v=heXQnM99oAI)
 
 
+
+
 ## Content Management System
 
 [Content Management System](Content%20Management%20System/README.md)
+
+
+
+
+
+
+## Web Fundamentals
+
+[Web Fundamentals](Web%20Fundamentals/README.md)
+
+
+
+
+
+
 
 
 ## Frontend Development
@@ -81,17 +98,13 @@
 
 
 
-## Web Fundamentals
-
-[Web Fundamentals](Web%20Fundamentals/README.md)
-
-
-
 
 
 ## Databases
 
 [Databases](Databases/README.md)
+
+
 
 
 
