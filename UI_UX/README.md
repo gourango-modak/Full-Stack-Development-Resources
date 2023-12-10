@@ -28,6 +28,7 @@
 
 [How to Build a Design System Scalable and Consistent | Explained in Bangla](https://www.youtube.com/watch?v=j9c0MU57WuI)
 
+[Create a Design System with Figma - Full Course](https://www.youtube.com/watch?v=RYDiDpW2VkM)
 
 
 
