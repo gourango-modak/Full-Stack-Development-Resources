@@ -77,14 +77,9 @@
 
 
 
+## Containerization
 
-## Docker & Kubernetes
-
-[Virtual Machines explained](https://www.youtube.com/watch?v=mQP0wqNT_DI)
-
-[Benefits of Virtualization](https://www.youtube.com/watch?v=o1H75BJ9BL0)
-
-[Docker Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=pg19Z8LL06w)
+[Containerization](Containerization/README.md)
 
 
 
