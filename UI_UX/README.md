@@ -59,6 +59,21 @@
 
 
 
+
+
+
+
+## How to Start
+
+[How to Steal Designs Like a PRO | End-to-end Process](https://www.youtube.com/watch?v=wLdWwoBDrNg)
+
+
+
+
+
+
+
+
 ## Design Token
 
 [What are Design Tokens](https://www.youtube.com/watch?v=wtTstdiBuUk)
