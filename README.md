@@ -26,9 +26,7 @@
 
 [Web Design From Start to Finish (Part 2): The final design](https://www.youtube.com/watch?v=RuQHLc3b_50)
 
-
-
-
+[All Question needs to ask before start a project](https://docs.google.com/document/d/1r0vk5AIHWa_kSljAb6Ltgz8sAm50pP793CA0EZB_B8Y/edit)
 
 
 ## Project Management
