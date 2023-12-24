@@ -89,6 +89,9 @@
 
 [Best UI Kits for Figma](https://www.youtube.com/watch?v=-SDTX3AhsrI)
 
+[10+ FREE Best Figma Design Systems to Kickstart your UI Design](https://www.youtube.com/watch?v=6jxszheySoA)
+
+[More UI Kits](https://www.youtube.com/watch?v=a2iVNbz7j7g)
 
 
 
@@ -96,6 +99,55 @@
 
 [How to Hand-off UI Designs to Developers (Figma vs Zeplin)](https://www.youtube.com/watch?v=xKvGFv2AxRM)
 
+
+
+
+## Inspirations
+
+[All UI design Inspiration Websites](https://www.toools.design/ui-web-design-inspiration-websites)
+
+[Design Vault](https://designvault.io/)
+
+[Mobbin](https://mobbin.com/)
+
+[Collect UI](https://collectui.com/)
+
+[Dribble](https://dribbble.com/)
+
+[Up Labs](https://www.uplabs.com/)
+
+[Behance](https://www.behance.net/)
+
+[UI8](https://ui8.net/)
+
+[Theme Forest](https://themeforest.net/)
+
+[E-commerce Design](https://ecomm.design/)
+
+[99 Design](https://99designs.com/discover)
+
+
+
+
+
+## Web
+
+[Nicely Done](https://nicelydone.club/)
+
+[Land Book](https://land-book.com/)
+
+[Lapa Ninja](https://www.lapa.ninja/)
+
+[Awwards](https://www.awwwards.com/)
+
+
+
+
+### Mobile
+
+[UX Archive](https://uxarchive.com/)
+
+[Screen Lane](https://screenlane.com/)
 
 
 
