@@ -104,6 +104,9 @@
 
 [These 9 Figma Plugins Will Make You Superhuman](https://www.youtube.com/watch?v=SBhcN1gYQKA)
 
+[Best Mockup Tools for UI/UX Designers](https://www.youtube.com/watch?v=4szMtZNKELU)
+
+[Top 10 Figma Plugins in 2023 | Includes AI Features](https://www.youtube.com/watch?v=pzSxfFFcdXM)
 
 
 
