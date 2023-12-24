@@ -102,7 +102,7 @@
 
 [Responsive Design in Figma Using Breakpoints](https://www.youtube.com/watch?v=c0ZTaDMGb20)
 
-
+[These 9 Figma Plugins Will Make You Superhuman](https://www.youtube.com/watch?v=SBhcN1gYQKA)
 
 
 
