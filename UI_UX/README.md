@@ -100,6 +100,15 @@
 
 [10 Must-Have Figma Plugins for UI/UX Designers](https://www.youtube.com/watch?v=-LMb1Bo7oHw)
 
+[Responsive Design in Figma Using Breakpoints](https://www.youtube.com/watch?v=c0ZTaDMGb20)
+
+
+
+
+
+
+
+
 
 ## UI Kits
 
