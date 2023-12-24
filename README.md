@@ -29,6 +29,28 @@
 [All Question needs to ask before start a project](https://docs.google.com/document/d/1r0vk5AIHWa_kSljAb6Ltgz8sAm50pP793CA0EZB_B8Y/edit)
 
 
+
+
+
+## Proposal
+
+[Web Design Proposal](https://www.youtube.com/watch?v=adV2lua5trU)
+
+[How To Create A Web Design Proposal](https://www.youtube.com/watch?v=44BZSDIYY8o)
+
+[How To Create A Web Design Proposal + FREE Template](https://www.youtube.com/watch?v=n8qi7cRznl0)
+
+[Project Proposals | Score Freelance Clients](https://www.youtube.com/watch?v=W9_JyKS9imE)
+
+
+
+
+
+
+
+
+
+
 ## Project Management
 
 [Project Management](Project%20Management/README.md)
