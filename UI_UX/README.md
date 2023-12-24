@@ -141,11 +141,7 @@
 
 [99 Design](https://99designs.com/discover)
 
-
-
-
-
-## Web
+Web
 
 [Nicely Done](https://nicelydone.club/)
 
@@ -156,9 +152,7 @@
 [Awwards](https://www.awwwards.com/)
 
 
-
-
-### Mobile
+Mobile
 
 [UX Archive](https://uxarchive.com/)
 
