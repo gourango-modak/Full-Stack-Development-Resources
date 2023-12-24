@@ -98,6 +98,7 @@
 
 [Figma Advanced Tutorial: A 2-hour Masterclass](https://www.youtube.com/watch?v=31wzhvz0vsw)
 
+[10 Must-Have Figma Plugins for UI/UX Designers](https://www.youtube.com/watch?v=-LMb1Bo7oHw)
 
 
 ## UI Kits
