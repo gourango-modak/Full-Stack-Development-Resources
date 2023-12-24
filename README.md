@@ -29,6 +29,9 @@
 [All Question needs to ask before start a project](https://docs.google.com/document/d/1r0vk5AIHWa_kSljAb6Ltgz8sAm50pP793CA0EZB_B8Y/edit)
 
 
+## CopyWritter
+
+[What Does A Copywriter Do?](https://www.youtube.com/watch?v=iLhpKlekaF0)
 
 
 
