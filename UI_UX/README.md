@@ -267,44 +267,13 @@
 
 ## Inspirations
 
-[All UI design Inspiration Websites](https://www.toools.design/ui-web-design-inspiration-websites)
+[All UI design Inspiration Websites](https://www.toools.design/ui-web-design-inspiration-websites) | [Design Vault](https://designvault.io/) | [Mobbin](https://mobbin.com/) | [Collect UI](https://collectui.com/)
 
-[Design Vault](https://designvault.io/)
+[Dribble](https://dribbble.com/) | [Up Labs](https://www.uplabs.com/) | [Behance](https://www.behance.net/) | [UI8](https://ui8.net/) | [Theme Forest](https://themeforest.net/) | [E-commerce Design](https://ecomm.design/)
 
-[Mobbin](https://mobbin.com/)
+[99 Design](https://99designs.com/discover) | [Nicely Done](https://nicelydone.club/) | [Land Book](https://land-book.com/) | [Lapa Ninja](https://www.lapa.ninja/) | [Awwards](https://www.awwwards.com/)
 
-[Collect UI](https://collectui.com/)
-
-[Dribble](https://dribbble.com/)
-
-[Up Labs](https://www.uplabs.com/)
-
-[Behance](https://www.behance.net/)
-
-[UI8](https://ui8.net/)
-
-[Theme Forest](https://themeforest.net/)
-
-[E-commerce Design](https://ecomm.design/)
-
-[99 Design](https://99designs.com/discover)
-
-Web
-
-[Nicely Done](https://nicelydone.club/)
-
-[Land Book](https://land-book.com/)
-
-[Lapa Ninja](https://www.lapa.ninja/)
-
-[Awwards](https://www.awwwards.com/)
-
-
-Mobile
-
-[UX Archive](https://uxarchive.com/)
-
-[Screen Lane](https://screenlane.com/)
+[UX Archive](https://uxarchive.com/) | [Screen Lane](https://screenlane.com/)
 
 
 
