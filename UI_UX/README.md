@@ -25,6 +25,10 @@
 
 [Patents | CopyWrite - Never copy these UI designs UI Skills](https://www.youtube.com/watch?v=y_PpwWxZ51M)
 
+[Splash screen design explained](https://www.youtube.com/watch?v=YVncc7FLQ48)
+
+[What is mobile app onboarding screens and their types](https://www.youtube.com/watch?v=zR-nD8shDSY)
+
 
 
 
@@ -123,7 +127,9 @@
 
 [How to Steal Designs Like a PRO | End-to-end Process](https://www.youtube.com/watch?v=wLdWwoBDrNg)
 
+[How to Plan and Design your first app user flow duagram](https://www.youtube.com/watch?v=mtofq-e9jgM)
 
+[Mobile App Wireframes designing](https://www.youtube.com/watch?v=wn6qZSneo5g)
 
 
 
@@ -250,6 +256,7 @@
 
 [More UI Kits](https://www.youtube.com/watch?v=a2iVNbz7j7g)
 
+[Wireframe kit UI Kit](https://www.youtube.com/watch?v=UKMRSsL67GU)
 
 
 
