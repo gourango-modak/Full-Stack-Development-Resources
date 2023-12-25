@@ -15,7 +15,7 @@
 
 [How to improve UI designing skills on your own proved methods](https://www.youtube.com/watch?v=A1yLkw4vg64)
 
-
+[How to improve your ui design skills | Learning Methods revealed](https://www.youtube.com/watch?v=_JExwFKfrRo)
 
 
 
