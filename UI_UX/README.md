@@ -89,6 +89,8 @@
 
 [How to Not Suck at Color - 5 color theory tips every designer should know](https://www.youtube.com/watch?v=C1rQQ_YpgcI)
 
+[UI Design Color Theory Color Of Wheel Explained color in ui design In Hindi](https://www.youtube.com/watch?v=GGtYE7-IN-g)
+
 [The Material Design Color System - UI UX Design Bootcamp](https://www.youtube.com/watch?v=uS0W7-O2-fQ)
 
 [How To Use Color — Color Basics](https://www.youtube.com/watch?v=QkCVrNoqcBU)
@@ -100,6 +102,8 @@
 [How to Apply a Color Palette to Your Design](https://www.youtube.com/watch?v=eXcKOqviLE0)
 
 [UI Design | How to choose colors and color palettes](https://www.youtube.com/watch?v=wuZuvhF4u6U)
+
+
 
 
 
@@ -231,6 +235,9 @@ Mobile
 [To find color palette - ColorInspo](https://colorsinspo.com/)
 
 [To check color contrast with text](https://coolors.co/contrast-checker)
+
+[To find color palette with UI example](https://colors.muz.li/)
+
 
 
 
