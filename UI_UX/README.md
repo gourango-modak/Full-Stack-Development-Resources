@@ -131,6 +131,7 @@
 
 [Mobile App Wireframes designing](https://www.youtube.com/watch?v=wn6qZSneo5g)
 
+[Topic Research web designing](https://www.youtube.com/watch?v=VxDQnSzNodA)
 
 
 
