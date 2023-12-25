@@ -13,11 +13,23 @@
 
 [UX Design Course Tutorial for Beginners: User Experience Design Fundamentals](https://www.youtube.com/watch?v=uL2ZB7XXIgg)
 
+[How to improve UI designing skills on your own proved methods](https://www.youtube.com/watch?v=A1yLkw4vg64)
+
+
+
+
+
 
 
 ## Fundamentals
 
 [Patents | CopyWrite - Never copy these UI designs UI Skills](https://www.youtube.com/watch?v=y_PpwWxZ51M)
+
+
+
+
+
+
 
 
 
@@ -34,6 +46,11 @@
 
 
 
+
+
+
+
+
 ## Design System
 
 [Design System kya hai | What is Design System in Hindi](https://www.youtube.com/watch?v=Y5iOAeHtRTw)
@@ -45,6 +62,10 @@
 [Create a Design System with Figma - Full Course](https://www.youtube.com/watch?v=RYDiDpW2VkM)
 
 [5 Best Design Systems and How to Learn (and Steal) From Them](https://www.youtube.com/watch?v=BISC15OPeGA)
+
+
+
+
 
 
 
@@ -91,6 +112,8 @@
 
 
 
+
+
 ## Color
 
 [How to pick the right colors for your website or app](https://www.youtube.com/watch?v=ewRYw4pnKQU)
@@ -120,9 +143,15 @@
 
 
 
+
+
+
 ## Typography
 
 [Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
+
+[Typography in UI Designing by graphics guruji](https://www.youtube.com/watch?v=GVmmyDpOTpo)
+
 
 
 
@@ -137,6 +166,8 @@
 [Tokens, variables, and styles - Update: Introduction to design systems](https://www.youtube.com/watch?v=JyCmacSyDY4)
 
 [Figma Variables & Design Tokens: Elevate Your Designs and Collaboration](https://www.youtube.com/watch?v=2p2emG4abm0)
+
+
 
 
 
@@ -169,6 +200,8 @@
 
 
 
+
+
 ## UI Kits
 
 [Best UI Kits for Figma](https://www.youtube.com/watch?v=-SDTX3AhsrI)
@@ -176,6 +209,12 @@
 [10+ FREE Best Figma Design Systems to Kickstart your UI Design](https://www.youtube.com/watch?v=6jxszheySoA)
 
 [More UI Kits](https://www.youtube.com/watch?v=a2iVNbz7j7g)
+
+
+
+
+
+
 
 
 
