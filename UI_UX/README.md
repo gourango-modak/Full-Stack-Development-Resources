@@ -15,7 +15,13 @@
 
 
 
+## Graphic Design Fundamentals
 
+[Graphic design fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0)
+
+[Branding & Identity](https://www.youtube.com/watch?v=l-S2Y3SF3mM)
+
+[Layout & Composition](https://www.youtube.com/watch?v=a5KYlHNKQB8)
 
 
 
@@ -77,13 +83,17 @@
 
 
 
-## Color Plate
+## Color
 
 [The Material Design Color System - UI UX Design Bootcamp](https://www.youtube.com/watch?v=uS0W7-O2-fQ)
 
 
 
 
+
+## Typography
+
+[Typography](https://www.youtube.com/watch?v=sByzHoiYFX0)
 
 
 
