@@ -85,6 +85,8 @@
 
 ## Color
 
+[How to Not Suck at Color - 5 color theory tips every designer should know](https://www.youtube.com/watch?v=C1rQQ_YpgcI)
+
 [The Material Design Color System - UI UX Design Bootcamp](https://www.youtube.com/watch?v=uS0W7-O2-fQ)
 
 [How To Use Color — Color Basics](https://www.youtube.com/watch?v=QkCVrNoqcBU)
@@ -92,6 +94,10 @@
 [Color Basics](https://www.youtube.com/watch?v=_2LLXnUdUIc)
 
 [How I Organize Colors for a UI Design Project](https://www.youtube.com/watch?v=9S8LGdpNh4Q)
+
+[How to Apply a Color Palette to Your Design](https://www.youtube.com/watch?v=eXcKOqviLE0)
+
+[UI Design | How to choose colors and color palettes](https://www.youtube.com/watch?v=wuZuvhF4u6U)
 
 
 
@@ -218,7 +224,8 @@ Mobile
 
 [To find feather icons](https://feathericons.com/)
 
-[To find color palette](https://color.adobe.com/)
+[To find color palette - Adobe Color](https://color.adobe.com/)
 
+[To find color palette - ColorInspo](https://colorsinspo.com/)
 
 
