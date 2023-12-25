@@ -189,3 +189,15 @@ Mobile
 
 
 
+
+## Useful Sites
+
+
+[To choose any color plate](https://coolors.co/)
+
+
+
+
+
+
+
