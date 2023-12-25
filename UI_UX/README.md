@@ -39,6 +39,8 @@
 
 [Complete Figma UI/UX Design Course with Projects 2024](https://www.youtube.com/watch?v=IHtV_oa2SsM)
 
+[UX Design Course Tutorial for Beginners: User Experience Design Fundamentals](https://www.youtube.com/watch?v=uL2ZB7XXIgg)
+
 [Ui/UX Design | Complete Trainings | Urdu\Hindi](https://www.youtube.com/playlist?list=PLspW40rZgNemcESvd7g9mz8gldTKTLy-d)
 
 [Google UX Design Professional Certificate Courses](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlUWixdH_1Q2yzZh8QJSBVmT)
