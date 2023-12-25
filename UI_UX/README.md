@@ -36,6 +36,7 @@
 
 [UI design principles in Hindi UI design rules](https://www.youtube.com/watch?v=SsAU9iiKmX4)
 
+[UI Principles](https://www.youtube.com/playlist?list=PLbCBjtmpDrNu9zANIsReoCWuciHMUfxli)
 
 
 
@@ -101,6 +102,17 @@
 
 [Material Design For UI UX Designers - UI UX Design Tutorial](https://www.youtube.com/watch?v=Abj65tkSblQ)
 
+[Web designing full course in hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa40BdjLTUnSHYMAjlTwbP0-)
+
+[How to Design Mobile View of a Website UI with free ui kit](https://www.youtube.com/watch?v=OGEdLZB44k8)
+
+[Great Design With User Research - Design a Mobile App Using Figma](https://www.youtube.com/watch?v=YD0egXpd-Y0)
+
+[UI/UX Design Course For Beginners | UI/UX Design Tutorial For Beginners](https://www.youtube.com/watch?v=pyQAiRuqUSM)
+
+
+
+
 
 
 
@@ -114,9 +126,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ## UI Components
 
 [Button | Input Fields | Checkbox | Radio button - Design Principles](https://www.youtube.com/playlist?list=PLt7HkDVHvsa5LkqEKjG2rBNugY4qW_vyp)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -300,12 +330,26 @@ Mobile
 
 ## Projects
 
+[Figma UI UX Design Tutorial - Design A Fintech App From Scratch](https://www.youtube.com/watch?v=PHsVJhco6dY)
+
+[Full Figma Course: Design a Job Website Start to Finish](https://www.youtube.com/watch?v=_9-znx3dwjQ)
+
+[Free Figma Course: Design a Video Game App in Figma](https://www.youtube.com/watch?v=84ZRDm3CEeI)
 
 
 
 
 
 
+
+
+
+## Mock Interview for UI/UX
+
+
+[UX Mock Whiteboard Challenge: With Meta Designer](https://www.youtube.com/watch?v=w-wBJ2lYm08)
+
+[UX Mock Whiteboard Challenge: With Meta Designer | Feedback & Advice](https://www.youtube.com/watch?v=xwHhr6Pg4J8)
 
 
 
