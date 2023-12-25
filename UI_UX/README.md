@@ -110,7 +110,7 @@
 
 [UI/UX Design Course For Beginners | UI/UX Design Tutorial For Beginners](https://www.youtube.com/watch?v=pyQAiRuqUSM)
 
-
+[UX designing in Hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa6D92A5WV6pTD4ZT54j4su3)
 
 
 
