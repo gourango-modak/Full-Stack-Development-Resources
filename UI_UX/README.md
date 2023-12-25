@@ -15,6 +15,14 @@
 
 
 
+## Fundamentals
+
+[Patents | CopyWrite - Never copy these UI designs UI Skills](https://www.youtube.com/watch?v=y_PpwWxZ51M)
+
+
+
+
+
 ## Graphic Design Fundamentals
 
 [Graphic design fundamentals](https://www.youtube.com/watch?v=YqQx75OPRa0)
@@ -86,6 +94,8 @@
 ## Color
 
 [How to pick the right colors for your website or app](https://www.youtube.com/watch?v=ewRYw4pnKQU)
+
+[How to choose UI colors scheme, color in ui design UI designing in Hindi](https://www.youtube.com/watch?v=p2a5wkJnNKs)
 
 [How to Not Suck at Color - 5 color theory tips every designer should know](https://www.youtube.com/watch?v=C1rQQ_YpgcI)
 
