@@ -279,6 +279,23 @@ Mobile
 
 [Top 10 UI designing mistakes and how to avoid them](https://www.youtube.com/watch?v=bAtP4OK5304)
 
+[Learn UI UX skills through fantasy sports app design analysis](https://www.youtube.com/watch?v=_DIuQuSHVfg)
+
+[App UI design skill improvement | Bad UI to Good UI](https://www.youtube.com/watch?v=JbdjaZPLj6s)
+
+
+
+
+
+
+
+
+## Projects
+
+
+
+
+
 
 
 
