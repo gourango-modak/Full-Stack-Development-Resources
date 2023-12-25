@@ -272,6 +272,23 @@ Mobile
 
 
 
+
+
+
+## Mistakes should avoid
+
+[Top 10 UI designing mistakes and how to avoid them](https://www.youtube.com/watch?v=bAtP4OK5304)
+
+
+
+
+
+
+
+
+
+
+
 ## Useful Sites
 
 
