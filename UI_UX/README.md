@@ -195,7 +195,7 @@ Mobile
 
 [To choose any color plate](https://coolors.co/)
 
-
+[To find quotes for you site](https://www.brainyquote.com/)
 
 
 
