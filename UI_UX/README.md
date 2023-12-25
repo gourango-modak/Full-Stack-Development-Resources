@@ -152,6 +152,8 @@
 
 [Typography in UI Designing by graphics guruji](https://www.youtube.com/watch?v=GVmmyDpOTpo)
 
+[Font colors in UI designing, text colors in UI design](https://www.youtube.com/watch?v=NdKjZrEgyoQ)
+
 
 
 
