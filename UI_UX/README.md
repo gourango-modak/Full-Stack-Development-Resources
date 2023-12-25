@@ -87,6 +87,13 @@
 
 [The Material Design Color System - UI UX Design Bootcamp](https://www.youtube.com/watch?v=uS0W7-O2-fQ)
 
+[How To Use Color — Color Basics](https://www.youtube.com/watch?v=QkCVrNoqcBU)
+
+[Color Basics](https://www.youtube.com/watch?v=_2LLXnUdUIc)
+
+[How I Organize Colors for a UI Design Project](https://www.youtube.com/watch?v=9S8LGdpNh4Q)
+
+
 
 
 
@@ -210,6 +217,8 @@ Mobile
 [To find quotes for you site](https://www.brainyquote.com/)
 
 [To find feather icons](https://feathericons.com/)
+
+[To find color palette](https://color.adobe.com/)
 
 
 
