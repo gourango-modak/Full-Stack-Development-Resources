@@ -85,6 +85,8 @@
 
 ## Color
 
+[How to pick the right colors for your website or app](https://www.youtube.com/watch?v=ewRYw4pnKQU)
+
 [How to Not Suck at Color - 5 color theory tips every designer should know](https://www.youtube.com/watch?v=C1rQQ_YpgcI)
 
 [The Material Design Color System - UI UX Design Bootcamp](https://www.youtube.com/watch?v=uS0W7-O2-fQ)
@@ -227,5 +229,8 @@ Mobile
 [To find color palette - Adobe Color](https://color.adobe.com/)
 
 [To find color palette - ColorInspo](https://colorsinspo.com/)
+
+[To check color contrast with text](https://coolors.co/contrast-checker)
+
 
 
