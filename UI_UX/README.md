@@ -30,6 +30,11 @@
 
 
 
+## UI Design Principles
+
+[Top 12 UI design principles in hindi for apps and websites](https://www.youtube.com/watch?v=S_B5h2m2nj0)
+
+[UI design principles in Hindi UI design rules](https://www.youtube.com/watch?v=SsAU9iiKmX4)
 
 
 
