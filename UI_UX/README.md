@@ -136,7 +136,7 @@
 
 [UI Design | How to choose colors and color palettes](https://www.youtube.com/watch?v=wuZuvhF4u6U)
 
-
+[How to pick color | Why HSB color mode in UI designing](https://www.youtube.com/watch?v=_SVlfaCSO7U)
 
 
 
