@@ -108,8 +108,6 @@
 
 [Web designing full course in hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa40BdjLTUnSHYMAjlTwbP0-)
 
-[How to Design Mobile View of a Website UI with free ui kit](https://www.youtube.com/watch?v=OGEdLZB44k8)
-
 [Great Design With User Research - Design a Mobile App Using Figma](https://www.youtube.com/watch?v=YD0egXpd-Y0)
 
 [UI/UX Design Course For Beginners | UI/UX Design Tutorial For Beginners](https://www.youtube.com/watch?v=pyQAiRuqUSM)
