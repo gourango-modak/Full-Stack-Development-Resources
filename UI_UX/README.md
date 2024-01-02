@@ -330,6 +330,14 @@
 
 
 
+## Plugins
+
+Unsplash | Iconify | Contrast | Lorem Ipsum
+
+
+
+
+
 
 
 
