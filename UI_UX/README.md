@@ -332,7 +332,7 @@
 
 ## Plugins
 
-Unsplash | Iconify | Contrast | Lorem Ipsum
+Unsplash | Iconify | Contrast | Lorem Ipsum | Brandfetch
 
 
 
