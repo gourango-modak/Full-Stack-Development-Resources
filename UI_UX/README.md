@@ -332,7 +332,7 @@
 
 ## Plugins
 
-Unsplash | Iconify | Contrast | Lorem Ipsum | Brandfetch | Foundation: Color Generator
+Unsplash | Iconify | Contrast | Lorem Ipsum | Brandfetch | Foundation: Color Generator | Typescales
 
 
 
