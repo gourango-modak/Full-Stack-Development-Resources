@@ -23,6 +23,8 @@
 
 ## Fundamentals
 
+[Real-life UX design process | My Product Design step by step summary (start to finish)](https://www.youtube.com/watch?v=mmnz1Qfz6HI)
+
 [Patents | CopyWrite - Never copy these UI designs UI Skills](https://www.youtube.com/watch?v=y_PpwWxZ51M)
 
 [Splash screen design explained](https://www.youtube.com/watch?v=YVncc7FLQ48)
