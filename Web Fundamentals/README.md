@@ -151,7 +151,11 @@
 
 
 
+## Memory Management
 
+[Object Pooling In C# Explained](https://www.youtube.com/watch?v=9KSEaR9Q0_M)
+
+[What is heap fragmentation?](https://www.youtube.com/watch?v=_G4HJDQjeP8)
 
 
 
