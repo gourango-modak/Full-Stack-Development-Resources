@@ -2,6 +2,13 @@
 # Software Testing
 
 
+## Fundamentals
+
+[Unit Tests and Test Doubles like Mocks, Stubs & Fakes](https://www.youtube.com/watch?v=NPp2pvhGbkM)
+
+
+## Software Testing Course
+
 [Software Testing Full Course](https://www.youtube.com/watch?v=sO8eGL6SFsA)
 
 [Software Testing Full Course 2022](https://www.youtube.com/watch?v=G4CeR6J1-4k)
