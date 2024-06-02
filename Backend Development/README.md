@@ -29,6 +29,12 @@
 [Authentications](Authentications/README.md)
 
 
+
+## Low Level Design
+
+[Low Level Design - LLD](Low%20Level%20Design/README.md)
+
+
 ## High Level System Design - HLD
 
 [High Level System Design - HLD](High%20Level%20System%20Design/README.md)
